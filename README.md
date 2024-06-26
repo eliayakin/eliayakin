@@ -18,7 +18,11 @@ And here are some reactions from the press (hebrew):
   - 🗞️ [Calcalist](https://www.calcalist.co.il/local_news/article/b10jii4cy)
   - 🗞️ [globs](https://www.globes.co.il/news/article.aspx?did=1001412554)
 
-Additionaly, I love taking part in Israel's NLP comunity. Last year I participated in NLP IL's [kaggle competiotin](https://www.meetup.com/the-israeli-natural-language-processing-meetup/events/299728251/) to develop a machine learning model that can accurately detect whether an essay was written by a student or an LLM.
+Additionaly, I love taking part in Israel's NLP comunity. Last year (2023) I participated in NLP IL's [kaggle competiotin](https://www.meetup.com/the-israeli-natural-language-processing-meetup/events/299728251/) to develop a machine learning model that can accurately detect whether an essay was written by a student or an LLM.
+Here is my team [repo](https://github.com/eliayakin/Detect-LLM-Generated-Text/tree/main) and the [slides](https://github.com/eliayakin/Detect-LLM-Generated-Text/blob/main/Textbusters%20-%20Detecting%20LLM-Generated%20Text.pdf) from a presantation I gave about our resuts in the NLP IL's meetup @ Amazon AWS
+
+
+
 
 
 <!--
