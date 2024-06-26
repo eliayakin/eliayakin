@@ -13,13 +13,13 @@ Here are some findings/tools that are based on the classifer:
 
 
 My Master's thesis on Israel's income gender gap used causal infrence analysis, and was published by Israel's ministry of finance was: 
-- 🎓 Parenthood and Gender Identity Impacts on Women Labor Force Outcomes in Israel[https://www.gov.il/BlobFolder/reports/article_13122021/he/Publishes_Articles_article_13122021.pdf]. 
+- 🎓 [Parenthood and Gender Identity Impacts on Women Labor Force Outcomes in Israel](https://www.gov.il/BlobFolder/reports/article_13122021/he/Publishes_Articles_article_13122021.pdf) 
 	And here are some reactions from the press (hebrew):
-  - TheMarker[https://www.themarker.com/career/.premium-1.10461190],
-  - Calcalist[https://www.calcalist.co.il/local_news/article/b10jii4cy]
-  - globs[https://www.globes.co.il/news/article.aspx?did=1001412554]
+  - 🗞️ [TheMarker](https://www.themarker.com/career/.premium-1.10461190)
+  - 🗞️ [Calcalist](https://www.calcalist.co.il/local_news/article/b10jii4cy)
+  - 🗞️ [globs](https://www.globes.co.il/news/article.aspx?did=1001412554)
 
-Additionaly, I love taking part in Israel's NLP comunity. Last year I participated in NLP IL's [kaggle competiotin]((https://www.meetup.com/the-israeli-natural-language-processing-meetup/events/299728251/)) to develop a machine learning model that can accurately detect whether an essay was written by a student or an LLM.
+Additionaly, I love taking part in Israel's NLP comunity. Last year I participated in NLP IL's [kaggle competiotin](https://www.meetup.com/the-israeli-natural-language-processing-meetup/events/299728251/) to develop a machine learning model that can accurately detect whether an essay was written by a student or an LLM.
 
 
 <!--
