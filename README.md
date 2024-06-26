@@ -7,10 +7,9 @@ Most of my career I had been working on some of Israel's biggest social ane econ
 Latly I worked on developing Israel best ML classifer of the Haredi society in administrave data (govermental data). 
 Here are some findings/tools that are based on the classifer:
  - 📔 [State of Haredi Society Annual Report 2023](https://machon.org.il/en/2023report-en/)
- - 📊 (Wohl's Data Center)[https://data.machon.org.il/]
+ - 📊 [Wohl's Data Center](https://data.machon.org.il/)
  - 🗞️ [Contrary to predictions: why the Haredi society will grow at a lower rate than expected (hebrew)](https://www.themarker.com/blogs/2024-06-03/ty-article/.premium/0000018f-dd15-dbdb-a59f-dd5de6390000)
  - 🗞️ [A new study reveals: double infant mortality among Haredi society (hebrew)](https://publichealth.doctorsonly.co.il/2024/04/314009/)
-
 
 My Master's thesis on Israel's income gender gap used causal infrence analysis, and was published by Israel's ministry of finance was: 
 - 🎓 [Parenthood and Gender Identity Impacts on Women Labor Force Outcomes in Israel](https://www.gov.il/BlobFolder/reports/article_13122021/he/Publishes_Articles_article_13122021.pdf) 
