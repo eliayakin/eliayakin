@@ -4,8 +4,7 @@ Hi I'm Elia, a data scientist with robust knowledge of theory and applicative ex
 
 Most of my career I had been working on some of Israel's biggest social ane economic challenges. 
 
-Latly I worked on developing Israel best ML classifer of the Haredi society in administrave data (govermental data). 
-Here are some findings/tools that are based on the classifer:
+Latly I worked on developing Israel's best ML classifer of Haredi individuals in administrave data (govermental data). Here are some findings/tools that are based on the classifer:
  - 📔 [State of Haredi Society Annual Report 2023](https://machon.org.il/en/2023report-en/)
  - 📊 [Wohl's Data Center](https://data.machon.org.il/)
  - 🗞️ [Contrary to predictions: why the Haredi society will grow at a lower rate than expected (hebrew)](https://www.themarker.com/blogs/2024-06-03/ty-article/.premium/0000018f-dd15-dbdb-a59f-dd5de6390000)
