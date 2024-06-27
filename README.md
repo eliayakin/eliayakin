@@ -19,7 +19,7 @@ And here are some reactions from the press (Hebrew):
 
 Additionally, I love taking part in Israel's NLP community. Last year (2023), I participated in NLP IL's [Kaggle competition](https://www.meetup.com/the-israeli-natural-language-processing-meetup/events/299728251/) to develop a machine learning model that accurately detects whether a student or an LLM wrote an essay. Here are:
 - 📝 My team's repository - [Detect-LLM-Generated-Text](https://github.com/eliayakin/Detect-LLM-Generated-Text/tree/main)
-- 🎤 [Slides](https://github.com/eliayakin/Detect-LLM-Generated-Text/blob/main/Textbusters%20-%20Detecting%20LLM-Generated%20Text.pdf) from a presantation I gave about our resuts in the NLP IL's meetup @ Amazon AWS
+- 🎤 [Slides](https://github.com/eliayakin/Detect-LLM-Generated-Text/blob/main/Textbusters%20-%20Detecting%20LLM-Generated%20Text.pdf) from a presantation I gave about our resuts in the NLP IL's meetup @ Amazon AWS TLV
 
 
 
