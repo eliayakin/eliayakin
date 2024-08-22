@@ -19,7 +19,7 @@ My Master's thesis on the efffect of parenthood on Israel's income gender gap us
 And here are some reactions from the press (Hebrew):
   - 🗞️ [TheMarker](https://www.themarker.com/career/.premium-1.10461190)
   - 🗞️ [Calcalist](https://www.calcalist.co.il/local_news/article/b10jii4cy)
-  - 🗞️ [Globs](https://www.globes.co.il/news/article.aspx?did=1001412554)
+  - 🗞️ [Globes](https://www.globes.co.il/news/article.aspx?did=1001412554)
 
 ### LLM-Generated Text Detection
 Additionally, I love taking part in Israel's NLP community. Last year (2023), I participated in NLP IL's [Kaggle competition](https://www.meetup.com/the-israeli-natural-language-processing-meetup/events/299728251/) to develop a machine learning model that accurately detects whether a student or an LLM wrote an essay. Here are:
